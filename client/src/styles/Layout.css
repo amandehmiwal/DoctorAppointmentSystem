@@ -1,0 +1,23 @@
+.sidebar,.header,.body{
+    box-shadow: 0 0 2px grey;
+}
+.header{
+    height: 10vh;
+}
+.body{
+    height: 85vh
+}
+
+.menu-item i{
+    margin: 0 15px;
+}
+.active{
+    background-color: white;
+    color: brown;
+}
+
+/* in getting user details */
+.header-content a{
+    color: blue;
+    font-size: 1.2rem;
+}
